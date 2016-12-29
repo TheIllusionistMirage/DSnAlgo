@@ -12,6 +12,9 @@ Data structures
 
 Algorithms
 ===========
+* Sorting
+    * Insertion sort
+    * Mergesort
 * Graph algorithms
     * Graph traversal
         1. Breadth-first Search
