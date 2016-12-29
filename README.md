@@ -6,12 +6,10 @@ My implementation of popular data structures &amp; algorithms in **C** (for my o
 Currently contains the implementation of the following:
 
 
-Data structures
-===============
+### Data structures
 
+### Algorithms
 
-Algorithms
-===========
 * Sorting
     * Insertion sort
     * Mergesort
